@@ -6,6 +6,15 @@
 
 ---
 
+## Quick Links
+
+| Resource | Link |
+|----------|------|
+| **Run Notebook on Colab** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/198PsFHNCOlqMbiXQEpwdeoi-dh76yXua?usp=sharing) |
+| **Presentation Slide Deck** | [View on Canva](https://canva.link/us35nujagjnbowz) |
+
+---
+
 ## Project Overview
 
 This project presents a **multi-agent AI system** for dynamic tariff optimization in electric vehicle (EV) charging networks. Built on the **Shenzhen UrbanEV Dataset** (247 zones, 720 hours), the system beats the peer benchmark R² score through a 3-agent architecture:
